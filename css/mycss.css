@@ -1,0 +1,49 @@
+.header {
+    /* background-color: blue; */
+    background-image: url('../image/HTML.gif');
+    text-align: center;
+    padding: 20px;
+    height: 500px;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    /* background-size: 100% 100%; */
+}
+
+#a1 {
+    text-align: center;
+    color: rgb(85, 2, 44);
+    font-size: 50px;
+}
+
+#a2 {
+    text-align: center;
+    color: rgb(92, 19, 47);
+    font-size: 25px;
+}
+
+div {
+    text-align: center;
+    border: 50px solid rgb(226, 126, 183);
+    background-color: rgb(243, 168, 218);
+    font-size: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+} 
+table {
+    width: 100%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th,td {
+    padding: 10px;
+}
+
